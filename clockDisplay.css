@@ -1,0 +1,19 @@
+body {
+  background-color: grey;
+}
+
+span {
+  display: block;
+  text-align: center;
+  font-size: 75px;
+  font-family: 'Pacifico', cursive;
+  background-color: grey;
+}
+
+#clock {
+  display: block;
+  text-align: center;
+  font-size: 75px;
+  background-color: burlywood;
+  font-family: 'Ewert', cursive;
+}
